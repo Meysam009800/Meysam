@@ -68,9 +68,9 @@ secrets {
   defaultPropertiesFileName = ".env.example"
 }
 
-googleServices {
-  missingGoogleServicesStrategy = MissingGoogleServicesStrategy.WARN
-}
+// googleServices {
+//  missingGoogleServicesStrategy = MissingGoogleServicesStrategy.WARN
+// }
 
 
 // Some unused dependencies are commented out below instead of being removed.
