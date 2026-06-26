@@ -1,0 +1,6 @@
+{
+  "name": "CF Switcher",
+  "description": "A secure, isolated multi-account Cloudflare manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
