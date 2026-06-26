@@ -11,7 +11,7 @@ plugins {
 
 android {
   namespace = "javanepoya.ir.cloudpanel"
-  compileSdk { version = release(34) { minorApiLevel = 1 } }
+  compileSdk = 34
 
   defaultConfig {
     applicationId = "javanepoya.ir.cloudpanel"
